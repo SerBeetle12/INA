@@ -1,2 +1,2 @@
 # INA
-lib for ina226
+lib stm32 f405 for ina226
